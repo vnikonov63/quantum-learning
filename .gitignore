@@ -6,7 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Conda environments
-.env/
+.env
 .venv/
 env/
 
