@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda environments
+.env/
+.venv/
+env/
+
+# Mac
+.DS_Store
